@@ -1,0 +1,1 @@
+# FintechProjectMana---SQL---Analysis
